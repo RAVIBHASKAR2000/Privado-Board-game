@@ -1,0 +1,37 @@
+body{
+    background-color: blueviolet;
+}
+
+.header{
+    text-align: center;
+}
+
+.box{
+    width: 600px;
+    height: 600px;
+    background-color: chartreuse;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+  
+}
+
+.red{
+    background-color: red;
+    width: 100px;
+    position: relative;
+    height: 100px;
+    opacity:0.7;
+    left: 0px;
+    top: 0px;
+}
+
+.blue{
+    background-color: blue;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    opacity:0.7;
+    left: 0px;
+    top: 0px;
+}
